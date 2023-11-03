@@ -3,7 +3,7 @@ EC422 (Artificial Intelligence) - Project - STAT3
 
 Models used:
 1. Logistic Regression
-2. Gaussian Naive-Bayes # Fix required
+2. ~~Gaussian Naive-Bayes~~
 3. Deep Neural Network
 4. Support Vector Machine
 5. ~~Convolutional Neural Network~~
