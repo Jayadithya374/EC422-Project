@@ -8,3 +8,5 @@ Requirements:
 4. seaborn
 5. sklearn
 6. tensorflow
+
+For the using the web application, see: https://github.com/Jayadithya374/stat3-web
